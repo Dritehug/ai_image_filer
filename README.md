@@ -3,9 +3,11 @@
 
 ![Review Mode On](reviewmode.gif) ![Review Mode Off](reviewoff.gif)
 
-###- Automatically classifies a folder of images using a pretrained image classifier
-###- Provides image previews and predicted categories
-###- User override option if necessary
+<ul>
+  <li><h3>Automatically classifies images</h3></li>
+  <li><h3>Provides previews and predicted categories</h3></li>
+  <li><h3>User override option</h3></li>
+</ul>
 
 # Installation: 
 ```bash
