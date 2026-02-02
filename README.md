@@ -2,12 +2,12 @@
 
 <p float="left">
   <figure style="display:inline-block; margin-right:20px;">
-    <img src="demos/reviewmode.gif" width="45%" />
+    <img src="demos/reviewmode.gif" width="38%" />
     <figcaption>Assign categories image-by-image</figcaption>
   </figure>
 
   <figure style="display:inline-block;">
-    <img src="demos/reviewoff.gif" width="45%" />
+    <img src="demos/reviewoff.gif" width="38%" />
     <figcaption>With review mode off</figcaption>
   </figure>
 </p>
