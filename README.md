@@ -1,7 +1,6 @@
-# ai_image_filer
 # Sorts images into a user-defined set of categories/directories. Uses an image classifier. 
 
-![Review Mode On](reviewmode.gif) ![Review Mode Off](reviewoff.gif)
+![Review Mode On](demos/reviewmode.gif) ![Review Mode Off](demos/reviewoff.gif)
 
 <ul>
   <li><h3>Automatically classifies images</h3></li>
