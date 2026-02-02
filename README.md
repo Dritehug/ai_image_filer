@@ -1,16 +1,18 @@
 # Sorts images into a user-defined set of categories/directories. Uses an image classifier. 
 
-<p float="left">
-  <figure style="display:inline-block; margin-right:20px;">
-    <img src="demos/reviewmode.gif" width="38%" />
-    <figcaption>Assign categories image-by-image</figcaption>
-  </figure>
+<div style="display: flex; justify-content: space-between;">
 
-  <figure style="display:inline-block;">
-    <img src="demos/reviewoff.gif" width="38%" />
-    <figcaption>With review mode off</figcaption>
-  </figure>
-</p>
+  <div style="text-align: center; width: 48%;">
+    <img src="demos/reviewmode.gif" style="width: 100%;" />
+    <div>Assign categories image-by-image</div>
+  </div>
+
+  <div style="text-align: center; width: 48%;">
+    <img src="demos/reviewoff.gif" style="width: 100%;" />
+    <div>With review mode off</div>
+  </div>
+
+</div>
 
 <ul>
   <li><h3>Automatically classifies images</h3></li>
