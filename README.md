@@ -3,7 +3,6 @@
 
 ![Review Mode On](reviewmode.gif) ![Review Mode Off](reviewoff.gif)
 
-```markdown
 ###- Automatically classifies a folder of images using a pretrained image classifier
 ###- Provides image previews and predicted categories
 ###- User override option if necessary
